@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">LocateMe</string>
+    <string name="rediger_un_message">Rédiger un message</string>
+    <string name="envoyer">Envoyer</string>
+    <string name="tapez_un_message">tapez un message</string>
+    <string name="num_ro">Numéro</string>
+    <string name="visionner_les_contacts">Visionner les contacts</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LocateMe</string>
+    <string name="rediger_un_message">Write message</string>
+    <string name="envoyer">Send</string>
+    <string name="tapez_un_message">enter message</string>
+    <string name="num_ro">Number</string>
+    <string name="visionner_les_contacts">View contact</string>
+</resources>
